@@ -1,6 +1,8 @@
-# DADA Invisible Economy model
+# DADA Invisible Economy
 
-Repository for Complex Systems model of the [DADA Invisible Economy](https://powerdada.medium.com/the-invisible-economy-db46897d4f07). The Colab notebooks are able to be run and played with by anyone who uses the link. Modeling is built in [cadCAD](https://cadcad.org/).
+Start here for an overview of the Invisible Economy.
+
+See the [modeling-simulation repo](https://github.com/InvisibleEconomy/modeling-simulation) for the Complex Systems model of the [DADA Invisible Economy](https://powerdada.medium.com/the-invisible-economy-db46897d4f07). The Colab notebooks are able to be run and played with by anyone who uses the link. Modeling is built in [cadCAD](https://cadcad.org/).
 
 ### Background & Context from the Whitepaper
 DADA is an online platform where people around the world create spontaneous visual conversations together, in spite of language, distance, nationality, or other artificial boundaries. On DADA, art is a means of communication, and its creative and collaborative nature fosters strong bonds between people. It’s a free and liberating experience. Trolling and bullying are organically neutralized. It is a place where strangers make art together without expecting remuneration, motivated not by extrinsic rewards like money or status but by intrinsic rewards such as the joy of making art, and a sense of autonomy, validation, self-development, belonging and a higher purpose.

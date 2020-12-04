@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# DADA Invisible Economy
 
-You can use the [editor on GitHub](https://github.com/InvisibleEconomy/cadCAD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Start here for an overview of the Invisible Economy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See the [modeling-simulation repo](https://github.com/InvisibleEconomy/modeling-simulation) for the Complex Systems model of the [DADA Invisible Economy](https://powerdada.medium.com/the-invisible-economy-db46897d4f07). The Colab notebooks are able to be run and played with by anyone who uses the link. Modeling is built in [cadCAD](https://cadcad.org/).
 
-### Markdown
+### Background & Context from the Whitepaper
+DADA is an online platform where people around the world create spontaneous visual conversations together, in spite of language, distance, nationality, or other artificial boundaries. On DADA, art is a means of communication, and its creative and collaborative nature fosters strong bonds between people. It’s a free and liberating experience. Trolling and bullying are organically neutralized. It is a place where strangers make art together without expecting remuneration, motivated not by extrinsic rewards like money or status but by intrinsic rewards such as the joy of making art, and a sense of autonomy, validation, self-development, belonging and a higher purpose.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Invisible Economy is the radical separation of art and the market. Blockchain technology allows the economy to be both invisible and transparent. It is invisible because it separates artmaking, code writing, art collecting, and general contributions from market transactions through different mechanisms. And it is transparent because all the transactions take place on the Ethereum blockchain where everyone can track them.
 
-```markdown
-Syntax highlighted code block
+Blockchain allows peer-to-peer networks to launch their own currency, and to control and self-manage the value they create collectively without a central authority. The Invisible Economy organizes economic activity based on interdependence, creativity, and altruism. It leverages the wisdom of the crowd without the pernicious effects of the market. Ultimately, people are rewarded for their contributions with a basic income.
 
-# Header 1
-## Header 2
-### Header 3
+You can also [watch this video](https://youtu.be/DVNIrJrYn3c) about the Invisible Economy.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InvisibleEconomy/cadCAD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Working Groups:
+Creating the Invisible Economy was kicked off by the presenting the Whitepaper at the [Radical X Change 2020 Conference](https://youtu.be/D7qML81Akus).

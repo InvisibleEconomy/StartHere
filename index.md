@@ -25,3 +25,5 @@ What we learned in the working groups about process is:
 3. The process takes as long as it takes.  We often found that the conversation shifted about 50 minutes in and that was when the magic began to happen.  If the meeting "had" to end after 1 hour, many of the great insights and breakthroughs we've made just wouldn't have happened - or would have take much longer to get to. Allowing meetings to take as long as they take to complete the conversation has become a key working practice of the working groups.
 
 The rest of these pages will be an attempt to both summarise and go deeper into the Invisible Economy.  
+
+Start [Your Journey here](https://github.com/InvisibleEconomy/StartHere/blob/gh-pages/YourJourney.md).

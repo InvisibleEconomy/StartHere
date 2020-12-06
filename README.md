@@ -21,11 +21,11 @@ Coming soon!
 
 # Guided Tour
 
-These [pages](https://github.com/InvisibleEconomy/StartHere/blob/gh-pages/index.md) will contain modules of information to serve as a guided tour through the terrain we have covered.  Think of it as a travel guide that contains some of the landmarks we have found useful, insights we have gained, and experiences we have shared on this journey.
+These [pages](https://invisibleeconomy.github.io/StartHere) will contain modules of information to serve as a guided tour through the terrain we have covered.  Think of it as a travel guide that contains some of the landmarks we have found useful, insights we have gained, and experiences we have shared on this journey.
 
-1. Intrinsic motivation and rewards are key.
+1. [Intrinsic](https://invisibleeconomy.github.io/StartHere/Intrinsic) motivation and rewards are key.
 
-2. The environment shapes the actions that arise.
+2. The [environment](https://invisibleeconomy.github.io/StartHere/Environment) shapes the actions that arise.
 
 3. The process affects the outcome.
 

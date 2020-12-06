@@ -26,4 +26,4 @@ What we learned in the working groups about process is:
 
 The rest of these pages will be an attempt to both summarise and go deeper into the Invisible Economy.  
 
-Start [Your Journey here](https://github.com/InvisibleEconomy/StartHere/blob/gh-pages/YourJourney.md).
+Start [Your Journey here](https://invisibleeconomy.github.io/YourJourney).

@@ -17,7 +17,7 @@ See the [modeling-simulation repo](https://github.com/InvisibleEconomy/modeling-
 
 ## FAQ
 
-Coming soon!
+compiled from questions asked and answered in our Telegram group.  We've begun an [FAQ](https://invisibleeconomy.github.io/StartHere/FAQs) page.
 
 ## Guided Tour
 

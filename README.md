@@ -27,6 +27,4 @@ These [pages](https://invisibleeconomy.github.io/StartHere) will contain modules
 
 2. The [environment](https://invisibleeconomy.github.io/StartHere/Environment) shapes the actions that arise.
 
-3. The process affects the outcome.
-
-4. What you focus on expands.
+3. The [process](https://invisibleeconomy.github.io/StartHere/Process) affects the outcome.
